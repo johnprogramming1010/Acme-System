@@ -6,6 +6,12 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello from Eclipse");
 		System.out.println("John is working locally on his own branch");
+	
+	}
+	
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
 	}
 
 }
